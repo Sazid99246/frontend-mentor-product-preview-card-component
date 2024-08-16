@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Sazid99246/frontend-mentor-product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://sazid99246.github.io/frontend-mentor-product-preview-card-component/)
+- Solution URL: [Github](https://github.com/Sazid99246/product-preview-card-component)
+- Live Site URL: [Product Preview Card Component](https://sazid99246.github.io/product-preview-card-component/)
 
 ## My process
 
